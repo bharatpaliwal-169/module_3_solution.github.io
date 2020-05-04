@@ -1,0 +1,30 @@
+p{
+  font-family: cursive;
+}
+
+.center{
+  text-align: center;
+  padding: 15px;
+}
+.head{
+  text-align: center;
+  padding: 15px;
+  margin: 10px;
+  font-weight: bold;
+  font-family: 'Roboto',sans-serif;
+}
+.cards{
+  color: white;
+  padding: 25px;
+}
+a{
+  color: lightgreen;
+}
+.shushi{
+  background-color: grey;
+}
+@media (min-width:576px) {
+  .hidden{
+    display: none;
+  }
+}
